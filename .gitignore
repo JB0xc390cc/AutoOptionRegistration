@@ -1,11 +1,20 @@
+# For general .NET project
 **/bin/*
 **/obj/*
 
-# Jetbrains ide
+# For jetbrains ides
 **/.idea/*
 
-# Resharper
+# For ReSharper
 *.sln.DotSettings.user
 
 # For VisualStudio
 **/.vs/*
+
+# For vim undo/bakup files
+*~
+
+# For vim swap files
+*.swp
+*.swo
+*.swn
