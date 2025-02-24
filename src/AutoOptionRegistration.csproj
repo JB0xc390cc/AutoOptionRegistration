@@ -21,11 +21,15 @@
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
         </PackageReference>
+
+        <None Include="../README.md" Pack="true" PackagePath=""/>
     </ItemGroup>
 
     <PropertyGroup>
         <PackageId>AutoOptionRegistration.NET</PackageId>
         <Authors>jb0xc390cc</Authors>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <Description>This is the short descripption</Description>
     </PropertyGroup>
 
 </Project>
