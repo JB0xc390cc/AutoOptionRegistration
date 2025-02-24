@@ -3,8 +3,6 @@
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
   </PropertyGroup>
   <ItemGroup>
-    <PackageVersion Include="Microsoft.Extensions.Configuration.Xml" Version="9.0.2" />
-    <PackageVersion Include="Microsoft.Extensions.Hosting" Version="9.0.2" />
     <PackageVersion Include="Bogus" Version="35.6.2" />
     <PackageVersion Include="coverlet.collector" Version="6.0.4" />
     <PackageVersion Include="FluentAssertions" Version="8.1.1" />
