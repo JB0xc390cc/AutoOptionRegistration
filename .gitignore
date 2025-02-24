@@ -4,5 +4,8 @@
 # Jetbrains ide
 **/.idea/*
 
-#Resharper
+# Resharper
 *.sln.DotSettings.user
+
+# For VisualStudio
+**/.vs/*
