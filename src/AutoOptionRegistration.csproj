@@ -19,4 +19,9 @@
         </PackageReference>
     </ItemGroup>
 
+    <PropertyGroup>
+        <PackageId>AutoOptionRegistration.NET</PackageId>
+        <Authors>jb0xc390cc</Authors>
+    </PropertyGroup>
+
 </Project>
