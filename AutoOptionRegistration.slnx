@@ -1,0 +1,18 @@
+<Solution>
+    <Folder Name="/docs/">
+        <File Path="README.md"/>
+    </Folder>
+    <Folder Name="/examples/">
+        <Project Path="example/SimpleExample/SimpleExample.csproj"/>
+    </Folder>
+    <Folder Name="/SolutionItems/">
+        <File Path=".gitignore"/>
+        <File Path="Directory.Packages.props"/>
+    </Folder>
+    <Folder Name="/src/">
+        <Project Path="src/AutoOptionRegistration.csproj"/>
+    </Folder>
+    <Folder Name="/tests/">
+        <Project Path="tests/AutoOptionRegistration.test/AutoOptionRegistration.test.csproj"/>
+    </Folder>
+</Solution>
