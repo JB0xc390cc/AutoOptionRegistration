@@ -28,6 +28,8 @@
 
         <None Include="../README.md" Pack="true" PackagePath=""/>
         <None Include="../LICENSE.txt" Pack="true" PackagePath=""/>
+        <None Include="../icon.png" Pack="true" PackagePath=""/>
+
 
     </ItemGroup>
 
@@ -58,6 +60,8 @@
         <PackageTags>GenericHost, library, Option, OptionsPattern</PackageTags>
 
         <GenerateDocumentationFile>True</GenerateDocumentationFile>
+
+        <PackageIcon>icon.png</PackageIcon>
     </PropertyGroup>
 
     <PropertyGroup Condition="'$(GITHUB_ACTIONS)' == 'true'">
