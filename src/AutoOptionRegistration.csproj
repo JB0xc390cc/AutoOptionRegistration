@@ -47,6 +47,17 @@
 
         <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
         <Copyright>"Copyright (c) 2025 jb0xc390cc."</Copyright>
+
+
+
+        <!-- PackageProjectUrl is different from the repository URL. It can be a documentation
+             website or a website explaining the project -->
+        <PackageProjectUrl>https://github.com/JB0xc390cc/AutoOptionRegistration</PackageProjectUrl>
+
+        <!-- A list of tags to help the search engine to understand the content of the package -->
+        <PackageTags>GenericHost, library, Option, OptionsPattern</PackageTags>
+
+        <GenerateDocumentationFile>True</GenerateDocumentationFile>
     </PropertyGroup>
 
     <PropertyGroup Condition="'$(GITHUB_ACTIONS)' == 'true'">
