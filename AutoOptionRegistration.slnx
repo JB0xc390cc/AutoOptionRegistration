@@ -1,6 +1,7 @@
 <Solution>
     <Folder Name="/docs/">
         <File Path="README.md"/>
+        <File Path="icon.png"/>
     </Folder>
     <Folder Name="/examples/">
         <Project Path="example/SimpleExample/SimpleExample.csproj"/>
